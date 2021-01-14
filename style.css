@@ -1,7 +1,7 @@
 
 header {
     background-color: #fff9f4;
-    height: 900px;
+    height: 700px;
 }
 .btn {
   background-color: #FA804C;
@@ -9,9 +9,19 @@ header {
     font-weight: 200;
 }
 main {
-    height: 1600px;
+    height: 1500px;
 }
 footer {
-   
+   height:600px ;
     
+}
+.chaya-card {
+    box-shadow:1px 1px 10px gray ;
+}
+button {
+    border: none;
+    border-radius: 10px;
+    background-color: #FA804C;
+    color: white;
+    font-weight: 200;
 }
